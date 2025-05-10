@@ -5,6 +5,6 @@
 
 # Command To Run
 - $ git clone https://github.com/LezzDcodeR/Obf-Tools.git
-- cd Obf-Tools
-- npm i
-- npm start
+- $ cd Obf-Tools
+- $ npm i
+- $ npm start
